@@ -33,4 +33,3 @@ Hence this drowsiness app's primary focus is solve this problem using Machine Le
 
   <h4>3.Calculate Alert Index & React</h4>
   <p>The status of eyes are calculated and the mean of the status are calculated in every 2 seconds.This mean is our Alert Index in this case. If the Alert Index if less than 0.51 then the driver a certain beep sound is played to alert the driver.
-
